@@ -13,16 +13,15 @@ export const metadata: Metadata = {
   description: "it's never just that simple",
   openGraph: {
     title: "neverjust",
-    description:
-      "A guide to better developer communication - it's never just that simple",
+    description: "a guide to better developer communication",
     url: "https://neverjust.net",
     siteName: "neverjust",
     images: [
       {
-        url: "/og-image.png",
+        url: "https://neverjust.net/opengraph-image.png",
         width: 1200,
         height: 630,
-        alt: "neverjust - A guide to better developer communication",
+        alt: "neverjust - a guide to better developer communication",
       },
     ],
     locale: "en_US",
@@ -33,7 +32,7 @@ export const metadata: Metadata = {
     title: "neverjust",
     description:
       "A guide to better developer communication - it's never just that simple",
-    images: ["/og-image.png"],
+    images: ["https://neverjust.net/twitter-image.png"],
   },
   icons: {
     icon: [
